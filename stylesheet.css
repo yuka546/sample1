@@ -1,7 +1,7 @@
 html,body{
   width: 100vw;
   height: 100vh;
-  background-image: url(https://mail.google.com/mail/u/0?ui=2&ik=a4cf87ccfc&attid=0.1.1&permmsgid=msg-f:1665959415157173883&th=171ead42eea92e7b&view=fimg&sz=s0-l75-ft&attbid=ANGjdJ9tplWfJgN8a5_vDG-QQ5AD29ntG248TyuYqDsG9O9LkKYsGXBW_j6wO_ZiBcVxVcR-kms8ZfrdcOXjDGeMhsqBCXoPYUYnRD7HTzvas0Ss_AF3DpPZFJPsHgQ&disp=emb);
+  background-image: url(https://lh3.googleusercontent.com/l4znVv5KsYNR-nG08EDdihUfSdXcQo8uX_di3dOyPXqhJ51SJuCULTFGVbqAnRygkDMUNbAEB56Bf_N_0HAFNkRpwRFn6vg2iWC2rnmjD6duJrVqr2LmbbMNP3k39iNs1o6EzAIyDqX9nRNT3Rw8W0WGXLy2stRvWU49Q2jZiTf-L-WewPBRcWld3tLRreV4tFWLQTP3E0gB0IJO1AAG4skJtl3VaGTf8kd_cwXQU9JA6oaG4nFdi3U-o9A2VlT7I9hzcMY_8NxlqTvzxSFxSnYYSa1tbTVric6tTPcTzzu5UHts0VB05ffOO1eiwK9w5YF9SAux9XflA2T0zDlKK_445OYO3i1Mma3W6iP9KnGyX0c868VKysFeMHRaF8cEaXQFnz9UdjRJAkqUmA1r5HLvnpgjPPzEN3WGY3-sT0MF1aAHphi4U5JnxD3OI-YzNHovPRnf5QtfIr9cTFjFHsUGWCrSbupEeKPdDgssxJhU-2ZwoLU1xsM-TiRfAoAz2s6-iKNGsKD5Rc_z9jSaqz1Nnj2MQCpq60qqDZmrDLsx5-FkM82OoETD-StImVeTXme_J4_Fo_GOyHL6UK4QO2EXZLDabeB27m5D1Nu_Kbfypm8pJz3QNpa6_TSQNAch_H0uW2FtJ90NJUAP4TFqfidu8wUo_cTqgKLrgYrYso-k79RYDs4sHc5hrelV=w516-h657-no);
   background-size: cover;
 }
 
@@ -98,7 +98,7 @@ footer p{
 
 @media(max-width: 670px){
   html,body{
-    background-image: url(https://mail.google.com/mail/u/0?ui=2&ik=a4cf87ccfc&attid=0.1&permmsgid=msg-f:1666015164259826020&th=171edff7081ef964&view=att&disp=safe);
+    background-image: url(https://lh3.googleusercontent.com/ReHan4xjJQ4Z1cil_RnowaspsE_D2BKesbazode6jGWB_Th0IYircMPRHOFFFgpWyL0TE-gPfT9C03cD3Hj3wPTFRwoD_A1Q2gjn9745sM9Zx8AZHtsz1RbuIDQv2d6i7O-WvCqpUIakhC7WAfyZLleVZudjMSPZG06raacde_vsOBY2HCtPHZ3qdgdG1HJLEOkKZ1g_vmKTvQYSXioRZvGDF-r_J_vy7ICGLSryUAJqEa5jhHan1LnxrvrGXmenD2_07UApwBZf3icetf_H7-C4JwZ5K1hAYybge-YWZ6wWDKSDqH1BWRU2-PwLZ0edP_g9iP8phGIUDPj5RV4-PhYY-H_ueMTN3PB03iLEYxkTDM6KB_fZs2zOsJ5oijcsnHHhBcIjXcYkVu8OhjhGZLAz_BTBcU2aYB7_RehtLJ-Npuzi6JNSD5zbSPe145CLAi5KXsCtJQcXX9xoBdJOdyAd-C2Kvv2UD1NDrVsrPvDh4CPke7QVz32KaoXW1UowD2oLkfHSTuM1v7mMTPGbkMJ6DgJk_Yk1hmxXrorm0p6MHd_U15aFPAfhk-qp4jje-WHuHjlGfDOBwuT_b4odVENi7s6F_gsWhW8JrVqxnrnXYmT0L7doMDNY1dOlkLg8jGCClPn_DjX4vPUt9ANlVfRk1H-DiYsBT4uFYUoTPccVGHkr1hRjaVYkj8lA=w282-h657-no);
     height: 100%;
     width: 100%;
   }
@@ -126,7 +126,6 @@ footer p{
   .title{
     font-size: 90px;
     padding: 50% 5% 5% 5%;
-    
   }
 
   .promote{
@@ -139,4 +138,3 @@ footer p{
   }
 
 }
-
