@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+    <script src="https://github.com/protonet/jquery.inview.git" type="text/javascript"></script>
+    <link rel="stylesheet" href="stylesheet.css">
+    <link href='https://fonts.googleapis.com/css?family=Varela' rel='stylesheet' type='text/css'>
+    <script src="https://kit.fontawesome.com/7615783cd2.js" crossorigin="anonymous"></script>
+    <meta charset="utf-8">
+    <title>sample1</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+  </head>
+  <body>
+<header>
+  <p class="story">Story /</p>
+  <p class="character">Character /</p>
+  <p class="trailer">Trailer /</p>
+  <a href="#"><span class="twitter fa fa-twitter"></span></a>
+</header>
+
+  <div class="main">
+    <p class="text movetext">私の愛している<br>あなたは現実か-----。<br>それとも----</p>
+    <h1 class="title movetext">仮面の夫</h1>
+    <p class="promote">大ヒット上映中！</p>
+  </div>
+
+<footer>
+  <p>©2020映画「仮面の夫」制作委員会</p>
+
+</footer>
+
+
+  </body>
+</html>
