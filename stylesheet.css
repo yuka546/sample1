@@ -1,8 +1,10 @@
 html,body{
   width: 100vw;
   height: 100vh;
-  background-image: url(https://lh3.googleusercontent.com/u2Ival8qObY3WE7_9PG-NvQ6nWR9lgXWjTtGXXRGSVmk_5H5L_mPBreqi9Cu_kC3jsDOKDrCNMfW4sT18_ropuVJ2bD3uZ1nDWxhfrLXCR4BR-SvMJ_CEAop7g7l9oA7g8UOaX5QdI9gltOyCqmeVyW-tP8EXoSSLLnZ5R2x-qPG9wiNSyXmZlXQVOt625VoDAlMcvULm13a_3C0L9ZYIJ5kAZzias0ATOtkgTnYGDxgSWTbkIOqt1dmWVVhj-FrKbLpqe20DZrFbHvRjnNce-ZvvpNQ5F7WMCVf2fDFTdmd97wEwQ15xsK-odxP2qRbbTlFvvdVjFYOlNimkEbQ3xFcAbXigsxSdDdcTUE-0gA6v0F4wQEtkHfSfr_TMHLV-ryEtJHhLq2394uYWZCaTWYUodDtowTAWBHs4sp1Axa5vOBLA2Sv87NTxIpU8bfC6ntuBef6d6FO6r_Bh6JS9QoyEHZuNK5RnSj4VX_BEqxV695Xqt_Vky9veNIxpKFy7in8bd8kd3nWTbY7y6RSYkQTAFqiUVfGF4dxQyUVh4HTlbE3l7OabhN8PUJPdFO1tLTY-ckgfOH-QUJHJxtRK-aUqfr8ATPWY0m1wL39ZzW_wKblvJNWk2JOmagV-vyIwOSxULtE-CxeJG7BZGAXGNkfCPk9nkaGKWUj-d7IpILzJ3V5Vz9DB6Dqvu0O=w516-h657-no);
-  background-size: cover;
+  background-size: 60%;
+  background-position: 50% 10%;
+  background-repeat: no-repeat;
+  background-image: url(https://www.pakutaso.com/shared/img/thumb/kuchikomi1017_TP_V4.jpg);
 }
 
 
@@ -38,7 +40,6 @@ header p:hover{
   transform: translateY(-5px);
   color: blue;
 }
-
 
 .text{
   position: relative;
@@ -98,9 +99,8 @@ footer p{
 
 @media(max-width: 670px){
   html,body{
-    background-image: url(https://lh3.googleusercontent.com/Vs8uviAddpVxarAl4zFv3Z0_DhST-zy-N0wfa7THsMeqpWt5LUXg4luYh79C0FsAh5h9nBaJMJpJDV1avHwBPy3Y70JlIZiaQnpFy7KgCp568o9dqCy6le17Th5WX9yPQ_bOL4vfS4EI-5YbVbQtTa98J5_BFo_grFjMOliO3ysM7Z89jftwVY8nRqH0vIUCl6mLy6tnUFN6K52tnC7aVsP1Jol_gY2sVsYbEUAHOkll2jF5rvjbeA0U5LAWJve0WTvqEXFWOaK8ur37HgEUxuhrIjbbri-noaUDO43f_w-gdVS0Aaf1eTI24gQE85d3rcUTa92qn_vdD6_FfNQsrRsVak8NhoJgNT09OklARbVifoXYpsMm-sCbyRI_2Z_Jj65sAWvQ627_JkYv7VAl9QHnjt7ogr9V7BbD4Y2GhmilT_K5XRskeOc2UOxKs0drX8LWuA_Dw1JxIvX2JjrF54cCgtmzlwxvC05NVntWt0MUtRKcttY9e0kb4JTt6yVpQoi6rED95AqfAW1HkTgbnDlGr50GaEhmIsH8B5iV6aW94gJc3c1CDu7aQd0urLPJ-Z-w3u3b_wlrWn0vyDRE7CiSltIXcYs4uMW37oHAVLedIPCqVbX2rdksKn-i5Tmp6Ld7w2vu_impZwyEzG28gyQAtbekrDjCakFwZ2Eowo-9jOP-PdqKGyJNAu4x=w282-h657-no);
-    height: 100%;
-    width: 100%;
+    background-image: url(https://www.pakutaso.com/shared/img/thumb/kuchikomi1017_TP_V4.jpg);
+    background-size: cover;
   }
 
   header p{
